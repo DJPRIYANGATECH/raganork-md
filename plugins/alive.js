@@ -1,7 +1,7 @@
 /* Copyright (C) 2022 Sourav KL11.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Raganork MD - Sourav KL11
+DARKLION MD - Sourav KL11
 */
 const {
   FancyRandom,
@@ -33,8 +33,8 @@ Module({
   var myid = message.client.user.id.split(":")[0]
   var buttons = [{
     urlButton: {
-        displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        displayText: 'YOUTUBE',
+        url: 'https://youtube.com/channel/UCn0BtDyH_PgXzBmE-NQCgHw'
     }
 }, {
   urlButton: {
