@@ -1,22 +1,22 @@
 {
-  "name": "raganork-md", 
-  "version": "3.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
-  "main": "./Raganork/index.js",
+  "name": "DARKLION-md", 
+  "version": "1",
+  "description": "DARKLION whatsapp bot- Multi device version.",
+  "main": "./DARKLION/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "type": "Youtube",
+    "url": "https://youtube.com/channel/UCn0BtDyH_PgXzBmE-NQCgHw"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "DARKLION",
+  "developer": "@DJPRIYANGATECH",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
