@@ -8,8 +8,89 @@ DATABASE_URL = process.env.DATABASE_URL === undefined ? './bot.db' : process.env
 DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBUG);
 module.exports = {
     VERSION: 'v3.0.0',
-    ALIVE: process.env.ALIVE || "https://i.imgur.com/KCnoMM2.jpg Hey {sender}, I'm alive \n Uptime: {uptime}",
-    BLOCK_CHAT: process.env.BLOCK_CHAT || '',
+    ALIVE: process.env.ALIVE || "https://telegra.ph/file/409612193ca7e7645e773.jpg Hey {sender},
+    ┏━───𓄂᳆𝐃𝐀𝐑𝐊〲𝐋𝐈𝐎𝐍〴𝐁𝐎𝐓࿐𝑶𝑵𝑳𝑰𝑵𝑬 𝑵𝑶𝑾
+    
+
+┗━┬❖ ◤𝘿𝘼𝙍𝙆 𝙇𝙄𝙊𝙉 𝘽𝙊𝙏◢
+    
+
+┏━┃➥ 𝑴𝑼𝑳𝑻𝑰 𝑫𝑰𝑽𝑰𝑪𝑬 𝑩𝑶𝑻
+
+┃   ┗━───────────────┈
+
+┃ ◤ 𝑩𝑶𝑻 𝑰𝑵𝑭𝑶 ◢
+
+┃┋➥ ᴀʟɪᴠᴇ ᴍꜱɢ
+
+┃┋──────────────────
+
+┃┋➥ 𝗕𝗢𝗧 𝗡𝗔𝗠𝗘 : 𝘿𝘼𝙍𝙆 𝙇𝙄𝙊𝙉
+    
+
+┃┋➥ 𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘 : 𓄂᳆⎝𝐃𝐉〲𝐏𝐑𝐈𝐘𝐀𝐍𝐆𝐀〴𝐓𝐄𝐂𝐇⎠࿐
+    
+
+┃┋➥ 𝗢𝗪𝗡𝗘𝗥 𝗡𝗨𝗠 : 94781544996
+    
+
+┃┋➥ 𝙈𝙔 𝙔𝙊𝙐𝙏𝙐𝘽𝙀 𝘾𝙃𝙉𝙉𝙀𝙇 : ```https://youtube.com/channel/UCn0BtDyH_PgXzBmE-NQCgHw```
+    
+
+┃┋➥ 𝗖𝗠𝗗 𝗟𝗜𝗦𝗧 : .𝒎𝒆𝒏𝒖
+    
+
+┃┋➥ 𝐁𝐎𝐓 𝐆𝐑𝐏 :  ```https://chat.whatsapp.com/F0CNZiQTJJCDWOPc1D5qj4```
+
+┗━┬──────────────┈ 
+
+   ┃➥ ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴇɴᴊᴏʏ ᴛʜɪꜱ ʙᴏᴛ
+
+   └───────────────
+
+ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ᴍᴏᴅ : 
+
+❱ https://hoter.co/A/75786wut ❰
+
+  🍁𓄂᳆𝐃𝐀𝐑𝐊〲𝐋𝐈𝐎𝐍〴𝐁𝐎𝐓࿐🍁
+    Uptime: {uptime}",
+    BLOCK_CHAT: process.env.BLOCK_CHAT || "*INBOX BLOCK ACTIVATE BY BOT OWNER*
+
+😹ඉන්බොක්ස් බොට් වැඩ නැ😈
+
+┏━─𓄂᳆𝐃𝐀𝐑𝐊〲𝐋𝐈𝐎𝐍〴𝐁𝐎𝐓࿐𝘽𝙊𝙏 𝙄𝙉𝘽𝙊𝙓 𝘽𝙇𝙊𝘾𝙆 𝑵𝑶𝑾
+
+┃
+
+┗━┬❖ ◤𓄂᳆𝐃𝐀𝐑𝐊〲𝐋𝐈𝐎𝐍〴𝐁𝐎𝐓࿐◢
+
+┏━┃➥ 𝑴𝑼𝑳𝑻𝑰 𝑫𝑰𝑽𝑰𝑪𝑬 𝑩𝑶𝑻
+
+┃   ┃➥  🤍🍃!!
+
+┃   ┗━───────────────┈
+
+┃ ◤ 𝑩𝑶𝑻 𝑰𝑵𝑭𝑶 ◢
+
+┃┋➥ 𝗕𝗢𝗧 𝗡𝗔𝗠𝗘 : 𓄂᳆𝐃𝐀𝐑𝐊〲𝐋𝐈𝐎𝐍〴𝐁𝐎𝐓࿐
+
+┃┋➥ 𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘 : 𓄂᳆𝐃𝐀𝐑𝐊〲𝐋𝐈𝐎𝐍〴𝐁𝐎𝐓࿐
+
+┃┋➥ 𝗢𝗪𝗡𝗘𝗥 𝗡𝗨𝗠 : wa.me/94781544996
+
+┃┋➥ 𝗛𝗢𝗦𝗧 𝗡𝗔𝗠𝗘 : 𓄂᳆𝐃𝐀𝐑𝐊〲𝐋𝐈𝐎𝐍〴𝐁𝐎𝐓࿐
+
+┃┋➥ 𝗖𝗠𝗗 𝗟𝗜𝗦𝗧 : .𝒎𝒆𝒏𝒖
+
+┃┋➥ 𝗢𝗨𝗥 𝗚𝗥𝗣 :  ```https://chat.whatsapp.com/F0CNZiQTJJCDWOPc1D5qj4```
+
+┗━┬──────────────┈ 
+
+   ┃➥ ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴇɴᴊᴏʏ ᴛʜɪꜱ ʙᴏᴛ
+
+   └──────────────
+
+𓄂᳆𝐃𝐀𝐑𝐊〲𝐋𝐈𝐎𝐍〴𝐁𝐎𝐓࿐**,
     ALWAYS_ONLINE: convertToBool(process.env.ALWAYS_ONLINE) || false,
     AUTOMUTE_MSG: process.env.AUTOMUTE_MSG || '_Group automuted!_\n_(Change this by setting var AUTOMUTE_MSG)_',
     ANTI_SPAM: process.env.ANTI_SPAM || '919074309534-1632403322@g.us',
